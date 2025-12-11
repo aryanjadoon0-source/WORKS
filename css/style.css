@@ -1,0 +1,83 @@
+/* Home Section */
+#home{
+    display: flex;
+    flex-direction: column;
+    padding: 66px 100px;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    color: white;
+}
+.h-primary{
+    font-size: 2.9rem;
+    padding: 12px;
+    margin: 4px;
+}
+#home p{
+    font-size: 1.3rem;
+    margin: 2px;
+}
+#home h1{
+    text-align: center;
+    color: white;
+}
+.school{
+    font-size: 2.8rem;
+    background-color: black;
+    height: 118px;
+    color: white;
+}
+ .p{
+    font-size: 1.2rem;
+     margin: 2px;
+     height: 16px;
+ }
+ .br{
+    background-color: black;
+    height: 5rem;
+ }
+ .menu {
+    display: flex;
+    gap: 150px;    
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+    font-size: 2.3rem;
+    background-color: black;
+    height: 8rem;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.menu .item a {
+    text-decoration: none;
+    color: white;
+
+}
+  /* secondary*/
+  .h-secondary{
+    text-align: center;
+  }
+  .boox{
+   margin: 34px;
+   display: flex;
+  }
+  #boox.box{
+  border: 2px solid darkred;
+  }
+ .mm{
+    font-size: 2rem;
+    margin: 0;
+ }
+.u{
+    font-size: 2rem;
+    width: 150px;
+    display: flex;
+    height: 44px;
+   
+}
+
+
+
